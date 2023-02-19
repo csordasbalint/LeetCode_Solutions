@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode_Solutions
 {
-    internal class _9_PalindromeNumber
+    internal class _0009_PalindromeNumber
     {
         public bool IsPalindrome(int x)
         {
