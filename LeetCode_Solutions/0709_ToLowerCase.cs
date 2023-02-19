@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode_Solutions
 {
-    internal class _709_ToLowerCase
+    internal class _0709_ToLowerCase
     {
         public string ToLowerCase(string s)
         {
