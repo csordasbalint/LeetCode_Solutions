@@ -7,4 +7,21 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="1-100\" />
+    <Folder Include="101-200\" />
+    <Folder Include="201-300\" />
+    <Folder Include="301-400\" />
+    <Folder Include="401-500\" />
+    <Folder Include="501-600\" />
+    <Folder Include="601-700\" />
+    <Folder Include="701-800\" />
+    <Folder Include="801-900\" />
+    <Folder Include="901-1000\" />
+    <Folder Include="1001-1100\" />
+    <Folder Include="1101-1200\" />
+    <Folder Include="1201-1300\" />
+    <Folder Include="1301-1400\" />
+  </ItemGroup>
+
 </Project>
