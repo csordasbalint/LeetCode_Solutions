@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -8,21 +8,31 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="0101-0200\" />
+	<Folder Include="0001-0100\" />
+	<Folder Include="0101-0200\" />
     <Folder Include="0201-0300\" />
     <Folder Include="0301-0400\" />
     <Folder Include="0401-0500\" />
     <Folder Include="0501-0600\" />
-    <Folder Include="0601-0700\" />
+	<Folder Include="0601-0700\" />
+	<Folder Include="0701-0800\" />
     <Folder Include="0801-0900\" />
     <Folder Include="0901-1000\" />
     <Folder Include="1001-1100\" />
+	<Folder Include="1101-1200\" />
     <Folder Include="1201-1300\" />
     <Folder Include="1301-1400\" />
+	<Folder Include="1401-1500\" />
+	<Folder Include="1501-1600\" />
     <Folder Include="1601-1700\" />
     <Folder Include="1701-1800\" />
     <Folder Include="1801-1900\" />
+    <Folder Include="1901-2000\" />
+    <Folder Include="2001-2100\" />
+    <Folder Include="2101-2200\" />
+    <Folder Include="2201-2300\" />
     <Folder Include="2301-2400\" />
+	<Folder Include="2401-2500\" />
     <Folder Include="2501-2600\" />
   </ItemGroup>
 
