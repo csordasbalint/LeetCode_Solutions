@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode_Solutions._1001_1100
 {
-    internal class ComplementOfBase10Integer
+    internal class _1009_ComplementOfBase10Integer
     {
         public int BitwiseComplement(int n)
         {
