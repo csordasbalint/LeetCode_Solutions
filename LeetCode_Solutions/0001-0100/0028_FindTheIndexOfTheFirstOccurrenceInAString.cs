@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode_Solutions._0001_0100
 {
-    internal class _28_FindTheIndexOfTheFirstOccurrenceInAString
+    internal class _0028_FindTheIndexOfTheFirstOccurrenceInAString
     {
         public int StrStr(string haystack, string needle)
         {
