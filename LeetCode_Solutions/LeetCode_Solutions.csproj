@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-	<Folder Include="0001-0100\" />
 	<Folder Include="0101-0200\" />
     <Folder Include="0201-0300\" />
     <Folder Include="0301-0400\" />
